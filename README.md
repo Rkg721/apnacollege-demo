@@ -1,4 +1,7 @@
 # apnacollege-demo
 This is my first github project
 <br>
-author- Rakesh Gupta
+author- Rakesh (apna college)
+
+
+
